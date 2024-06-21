@@ -88,3 +88,20 @@ li a:hover {
   cursor: pointer;
   transform: translateY(60px);
 }
+
+
+#our-story {
+    margin-top: 15%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .img {
+    width: 400px;
+    height: 400px;
+    background: url(Images/pexels-chitokan-2183027-removebg-preview.png);
+    background-position: center;
+    background-size: cover;
+  }

@@ -98,3 +98,10 @@ li a:hover {
     align-items: center;
   }
   
+  .img {
+    width: 400px;
+    height: 400px;
+    background: url(Images/pexels-chitokan-2183027-removebg-preview.png);
+    background-position: center;
+    background-size: cover;
+  }
